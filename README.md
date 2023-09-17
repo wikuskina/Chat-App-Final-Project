@@ -1,4 +1,3 @@
-# msc-project-source-code-files-22-23-wikuskina
 msc-project-source-code-files-22-23-wikuskina created by GitHub Classroom
 
 # Learn to Debate chat tool 2023 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
