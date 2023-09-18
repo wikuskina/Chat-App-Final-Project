@@ -73,6 +73,7 @@ Executable files subfolder. They end with .exe file extention.
 - debatetoolIcon.jpg
 - Chat script.txt
 - README.md
+- 
   *Executable files* subfolder:
 - Chat-Server.exe
 - Get-your-host.exe
