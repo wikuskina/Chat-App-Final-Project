@@ -1,40 +1,33 @@
 # Learn to Debate chat tool 2023 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### Author: VS
 
-This is a the program I designed and implemented for my MSc Information Technology Project. <br>
-Design & specification, requirements, project plan, implementation, and testing were conducted and described in the project report.<br>
+A program I designed and implemented for MSc Information Technology Project. <br>
+Project plan, design & specifications, requirements, implementation, and testing were conducted and described in the project report.<br>
 This repository contains the app code and related files.<br>
+<img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961"> <br>
 
-<img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961">
+The application is a chat that provides space for users to talk to each other. It was created with the purpose of being used while learning debating and critical thinking skills. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. <br> <br>
 
+- Chats are tested against the list of "words.txt" and prompts messages if words are matching.<br>
+- "Words.txt" contain words that (for example) bring a negative tone to the conversation, including swear words. <br>
+- The chat saves communication in a newly created text file.<br>
+- Text file is saved in the same location the script is running from.<br>
+- User can add feedback at the end, which is also written into the text file.<br><br>
 
+Chat example <br>
+<img width="384" alt="Picture1" src="https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/b7080faf-df66-426b-9380-13326248ce73">
+<br>
+<img width="375" alt="Picture2" src="https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/5703f1b1-ac7f-4597-b71d-3db2dfcfd42d">
+Text file of a saved chat <br>
+![Picture4](https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/a14fe42a-9386-4a9b-bc15-fd24fae285d4)
 
-#### Description of the APP
-The application is a chat that provides a space for users to talk to each other. It was created with the purpose of being used while learning debating skills and critical thinking. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. 
-
-#### CHAT features
-- The chat lets users talk to each other.
-- It saves communication in a newly created text file.
-- Text file is saved in the same location the script is running from.
-- User can add feedback at the end, which is also written into the text file.
-- Chat conversations are tested against the list of "words.txt" and prompts messages if words are matching.
-- "Words.txt" contain words that bring negative tone to the conversation, including swear words. 
-
-#### VERSIONS of the program
-Program has two versions: Local and Internet, and both can be run either via Python scripts or via executable files (.exe extention). Exe files used to be located in the 
+Program has two versions: Local and Internet, both run either via Python scripts or via executable files (.exe extention). Exe files used to be located in the 
 Executable files subfolder, they were however removed as are no longer applicable.
 
-**Difference between local and Internet** connection programs:
-- Local version should successfully run between devices on the same network. The local version asks user to input the IP address of the device on which the server is running.
-- A separate program (supplied) can be run to find out the IP address.
+- Local version runs between devices on the same network. The local version asks user to input the IP address of the device on which the server is running.
+- A separate script Get Your Host can be run to find out the IP address.
 - Internet version is designed to connect to the server running on author's device.
  
-#### PREPARE BEFORE running the program
-**To run Python scripts:**
-- Install Python.
-- Instal libraries via Windows command prompt: pip install customtkinter  --- Customtkinter, pip install pillow   --- Pillow
-- All other libraries should be built-in.
-
 #### HOW TO run the program - LOCAL connection
 Python script can be run directly by clicking on it, via command line or Python IDE, such as PyCharms.
 - Chat-Server.py is run first.
