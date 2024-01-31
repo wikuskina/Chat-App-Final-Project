@@ -16,17 +16,18 @@ The application is a chat that provides space for users to talk to each other. I
 
 Chat example <br>
 <img width="384" alt="Picture1" src="https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/b7080faf-df66-426b-9380-13326248ce73">
-<br>
+<br> <br>
 <img width="375" alt="Picture2" src="https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/5703f1b1-ac7f-4597-b71d-3db2dfcfd42d">
-Text file of a saved chat <br>
-![Picture4](https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/a14fe42a-9386-4a9b-bc15-fd24fae285d4)
+ <br> <br>
+Text file of a saved chat <br> 
+![Picture4](https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/a14fe42a-9386-4a9b-bc15-fd24fae285d4)  <br>
 
 Program has two versions: Local and Internet, both run either via Python scripts or via executable files (.exe extention). Exe files used to be located in the 
-Executable files subfolder, they were however removed as are no longer applicable.
+Executable files subfolder, they were however removed as are no longer applicable.  <br>
 
-- Local version runs between devices on the same network. The local version asks user to input the IP address of the device on which the server is running.
-- A separate script Get Your Host can be run to find out the IP address.
-- Internet version is designed to connect to the server running on author's device.
+- Local version runs between devices on the same network. The local version asks user to input the IP address of the device on which the server is running.  <br>
+- A separate script Get Your Host can be run to find out the IP address. <br>
+- Internet version is designed to connect to the server running on author's device. <br>
  
 #### HOW TO run the program - LOCAL connection
 Python script can be run directly by clicking on it, via command line or Python IDE, such as PyCharms.
