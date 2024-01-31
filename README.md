@@ -3,7 +3,7 @@
 
 A program I designed and implemented for MSc Information Technology Project. <br>
 Project plan, design & specifications, requirements, implementation, and testing were conducted and described in the project report.<br>
-This repository contains the app code and related files.<br>
+This repository contains the app code and related files.<br> <br>
 <img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961"> <br>
 
 The application is a chat that provides space for users to talk to each other. It was created with the purpose of being used while learning debating and critical thinking skills. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. <br> <br>
