@@ -22,23 +22,17 @@ Chat example <br><br>
 Text file of a saved chat <br> <br>
 ![Picture4](https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/a14fe42a-9386-4a9b-bc15-fd24fae285d4)  <br>
 
-Program has two versions: Local and Internet, both run either via Python scripts or via executable files (.exe extention). Exe files used to be located in the 
-Executable files subfolder, they were however removed as are no longer applicable.  <br>
+Program has two versions: Local and Internet.<br>
 
-- Local version runs between devices on the same network. The local version asks user to input the IP address of the device on which the server is running.  <br>
-- A separate script Get Your Host can be run to find out the IP address. <br>
-- Internet version is designed to connect to the server running on author's device. <br>
+- Local version runs between devices on the same network. It asks user to input the IP address of the device on which the server is running.  <br>
+- A separate script _Get Your Host_ can be run to find out the IP address. <br>
+- Internet version is designed to connect to the server running on author's device (when running). <br>
  
-#### HOW TO run the program - LOCAL connection
+#### HOW TO run the program 
 Python script can be run directly by clicking on it, via command line or Python IDE, such as PyCharms.
 - Chat-Server.py is run first.
-- Get-your-host.py is run second (to find out the local IP) on the same machine as server.
-- Chat-Client-Local.py is run third - can be run on the same or different machine as the server. Will need the IP address from the Get-your-host.py
-
-#### HOW TO run the program - INTERNET connection
-Python script can be run directly by clicking on it, via command line or Python IDE, such as PyCharms.
-- Chat-Server.py is run first, if testing done with the server running on device other than author's. Otherwise, it can be attempted to run the Client script and hopefully it will connect to the server already running on author's device. Same applies for the .exe files.
-- Chat-Client-Internet.py is run next.
+- Get-your-host.py is run second (to find out the local IP) on the same machine as server, if running the local version.
+- Chat-Client-Local.py is run third - can be run on the same or different machine as the server. Will need the IP address from the Get-your-host.py, if running the local version.
 
 #### ALL files that are part of the project
 - Chat-Server.py
@@ -51,4 +45,4 @@ Python script can be run directly by clicking on it, via command line or Python 
 - Chat script.txt
 - README.md
 
-#### NO files should be removed and they should be kept together, as this may affect performance of the program.
+_NO files should be removed and should be kept in one location, as this may affect performance of the program._
