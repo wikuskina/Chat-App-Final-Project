@@ -1,10 +1,13 @@
 # Learn to Debate chat tool 2023 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Author: VS
 
-## Author: VS
-### MSc Information Technology Project 
-### Birkbeck College, University of London
+This is a the program I designed and implemented for my MSc Information Technology Project. <br>
+Design & specification, requirements, project plan, implementation, and testing were conducted and described in the project report.
+This repository contains the app code and related files.
 
 <img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961">
+
+
 
 #### Description of the APP
 The application is a chat that provides a space for users to talk to each other. It was created with the purpose of being used while learning debating skills and critical thinking. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. 
