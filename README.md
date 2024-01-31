@@ -19,7 +19,7 @@ Chat example <br><br>
 <br> <br>
 <img width="375" alt="Picture2" src="https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/5703f1b1-ac7f-4597-b71d-3db2dfcfd42d">
  <br> <br>
-Text file of a saved chat <br> 
+Text file of a saved chat <br> <br>
 ![Picture4](https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/a14fe42a-9386-4a9b-bc15-fd24fae285d4)  <br>
 
 Program has two versions: Local and Internet, both run either via Python scripts or via executable files (.exe extention). Exe files used to be located in the 
