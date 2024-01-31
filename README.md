@@ -8,10 +8,10 @@ This repository contains the app code and related files.<br> <br>
 
 The application is a chat that provides space for users to talk to each other. It was created with the purpose of being used while learning debating and critical thinking skills. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. <br> <br>
 
-- Chats are tested against the list of "words.txt" and prompts messages if words are matching.<br>
-- "Words.txt" contain words that (for example) bring a negative tone to the conversation, including swear words. <br>
+- Chat is tested against the list of "words.txt" and prompts messages if words are matching.<br>
+- "Words.txt" contains words that (for example) bring a negative tone to the conversation, including swear words. It can be amended and used with a different purpose. <br>
 - The chat saves communication in a newly created text file.<br>
-- Text file is saved in the same location the script is running from.<br>
+- The text file is saved in the same location the script is running from.<br>
 - User can add feedback at the end, which is also written into the text file.<br><br>
 
 Chat example <br>
