@@ -3,7 +3,7 @@
 
 This is a the program I designed and implemented for my MSc Information Technology Project. <br>
 Design & specification, requirements, project plan, implementation, and testing were conducted and described in the project report.<br>
-This repository contains the app code and related files.
+This repository contains the app code and related files.<br>
 
 <img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961">
 
