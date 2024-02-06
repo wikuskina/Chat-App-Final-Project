@@ -1,12 +1,12 @@
 # Learn to Debate chat tool 2023 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### Author: VS
 
-A program I designed and implemented for MSc Information Technology Project. <br>
-Project plan, design & specifications, requirements, implementation, and testing were conducted and described in the project report.<br>
+A program I designed and implemented for MSc Information Technology project. <br>
+Project plan, design & specifications, requirements, implementation, and testing were described in the project report.<br>
 This repository contains the app code and related files.<br> <br>
 <img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961"> <br>
 
-The application is a chat that provides space for users to talk to each other. It was created with the purpose of being used while learning debating and critical thinking skills. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. <br>
+The chat was created with the purpose of being used while learning debating and critical thinking skills. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. <br>
 
 - Chat is tested against the list of "words.txt" and prompts messages if words are matching.<br>
 - "Words.txt" contains words that (for example) bring a negative tone to the conversation, including swear words. It can be amended and used with a different purpose. <br>
@@ -23,16 +23,13 @@ Text file of a saved chat <br> <br>
 ![Picture4](https://github.com/wikuskina/Chat-App-Final-Project/assets/50303995/a14fe42a-9386-4a9b-bc15-fd24fae285d4)  <br>
 
 Program has two versions: Local and Internet.<br>
-
 - Local version runs between devices on the same network. It asks user to input the IP address of the device on which the server is running.  <br>
 - A separate script _Get Your Host_ can be run to find out the IP address. <br>
 - Internet version is designed to connect to the server running on author's device (when running). <br>
  
 #### HOW TO run the program 
-Python script can be run directly by clicking on it, via command line or Python IDE, such as PyCharms.
 - Chat-Server.py is run first.
-- Get-your-host.py is run second (to find out the local IP) on the same machine as server, if running the local version.
-- Chat-Client-Local.py is run third - can be run on the same or different machine as the server. Will need the IP address from the Get-your-host.py, if running the local version.
+- Chat-Client-Local.py is run second - can be run on the same or different machine as the server. Will need the IP address from the Get-your-host.py, if running the local version.
 
 #### ALL files that are part of the project
 - Chat-Server.py
