@@ -1,12 +1,19 @@
 # Learn to Debate chat tool 2023 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-### Author: VS
+### Author: Viktorija S
 
-A program I designed and implemented for MSc Information Technology project. <br>
-Project plan, design & specifications, requirements, implementation, and testing were described in the project report.<br>
+### Abstrat
+
+Current political, economic, and social events, such as Covid-19 pandemic and war in Ukraine, remind us about how polarised the world is becoming. Many heated debates discussing current events are happening online, with people losing the skill (or never learning) how to discuss an issue in a mature and constructive way, so learning debating skills is essential to improve communication standards. 
+The aim was to create a Learn To Debate chat tool (a chat tool), with simple functionality and ease of use. The application could potentially be used in educational environments as a helpful learning space for students, while they learn debating and critical thinking skills under supervision of their teachers.<br>
+
+### Summary
+<br>
+
+### The code
 This repository contains the app code and related files.<br> <br>
 <img width="436" alt="COVER" src="https://github.com/wikuskina/pythonProject7/assets/50303995/35bc507a-a837-4222-a4d2-47b3da92c961"> <br>
 
-The chat was created with the purpose of being used while learning debating and critical thinking skills. It can be used for other educational purposes, where it is beneficial to have a conversation in writing. <br>
+<br>
 
 - Chat is tested against the list of "words.txt" and prompts messages if words are matching.<br>
 - "Words.txt" contains words that (for example) bring a negative tone to the conversation, including swear words. It can be amended and used with a different purpose. <br>
