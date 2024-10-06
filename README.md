@@ -1,8 +1,6 @@
 # Learn to Debate chat tool ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### Author: Viktorija S 2023
 
-### Abstrat
-
 Current political, economic, and social events remind us about how polarised the world is becoming. Many heated debates discussing current events are happening online, with people losing the skill (or never learning) how to discuss an issue in a mature and constructive way, so learning debating skills is essential to improve communication standards. The aim of the project was create a Learn To Debate chat tool, with simple functionality and ease of use. The application could potentially be used in educational environments as a helpful learning space for students, while they learn debating and critical thinking skills under supervision of their teachers.<br>
 
 ### Summary
