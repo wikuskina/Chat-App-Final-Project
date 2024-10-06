@@ -7,9 +7,9 @@ Current political, economic, and social events remind us about how polarised the
 Why chat tool? Not everyone likes video-calling when working or studying from home. Texting is one of the most widespread and preferrable ways to communicate - in private and business. Other potential benefits of learning via text conversations: opportunity to learn debating skills for students with disabilities, or those who comprehend information better by writing and reading; one-to-one chat conversation can help students to focus on the conversation with no distractions; it is a good way to learn self-expression in writing. <br>
 
 ### Technical
-Learn to Debate Chat tool is a Windows desktop application created using Python programming language. It consists of back-end and front-end. Python socket module was used to establish a connection between a Client and Server, and to send and receive messages across the network (using TCP). The Server script runs first, establishes the connection, and then the Client script is run. The Client script the has main chat functionality and UI. <br>
-The application was continuously tested and program code was refactored from early stages of development. <br>
-Limitation of the project is that the chat tool doesn’t teach students actual debating skills; it provides a place where learning happens. Therefore, the outcome of learning will depend on the educational institution and on the expertise of a teacher using it effectively with students. <br>
+- Learn to Debate Chat tool is a Windows desktop application created using Python programming language. It consists of back-end and front-end. Python socket module was used to establish a connection between a Client and Server, and to send and receive messages across the network (using TCP). The Server script runs first, establishes the connection, and then the Client script is run. The Client script the has main chat functionality and UI. <br>
+- The application was continuously tested and program code was refactored from early stages of development. <br>
+- Limitation of the project is that the chat tool doesn’t teach students actual debating skills; it provides a place where learning happens. Therefore, the outcome of learning will depend on the educational institution and on the expertise of a teacher using it effectively with students. <br>
 
 ### The code
 This repository contains the app code and related files.<br> <br>
